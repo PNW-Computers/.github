@@ -16,10 +16,10 @@
 
 We build and maintain tools designed for the "boots on the ground" technician, focusing on automation, deployment, and security auditing.
 
-* **[DeployWorkstation](https://github.com/Pnwcomputers/DeployWorkstation)** – Zero-touch Windows 10/11 deployment automation for MSPs.
-* **[SystemTester](https://github.com/Pnwcomputers/SystemTester)** – A portable, scriptable Sysinternals-based toolkit for rapid system diagnostics.
-* **[ULTIMATE Cybersecurity Master Guide](https://github.com/Pnwcomputers/ULTIMATE-CYBERSECURITY-MASTER-GUIDE)** – A comprehensive knowledge base for environment hardening.
-* **[Pi-SocialMedia-Poster](https://github.com/Pnwcomputers/Pi-SocialMedia-Poster)** – Self-hosted FastAPI cross-poster for automated updates.
+* **[IT Manual](https://github.com/PNW-Computers/IT-Manual))** – A comprehensive knowledge base for independent IT technicians, MSPs, and repair shops.
+* **[ESP32 HomeAssistant Alarm](https://github.com/PNW-Computers/ESP32_HA_Alarm))** – A professional-grade, distributed vehicle security system that intergrates with HomeAssistant.
+* **[Master OSINT Guide](https://github.com/PNW-Computers/osint)** – A Comprehensive OSINT Toolkit for Scam & Fraud Investigation
+* **[PNWC Reticulum Network](https://github.com/PNW-Computers/Reticulum-Network)** – Dual Base Station Reticulum Mesh Network.
 
 ---
 
