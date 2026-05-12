@@ -16,8 +16,8 @@
 
 We build and maintain tools designed for the "boots on the ground" technician, focusing on automation, deployment, and security auditing.
 
-* **[IT Manual](https://github.com/PNW-Computers/IT-Manual))** – A comprehensive knowledge base for independent IT technicians, MSPs, and repair shops.
-* **[ESP32 HomeAssistant Alarm](https://github.com/PNW-Computers/ESP32_HA_Alarm))** – A professional-grade, distributed vehicle security system that intergrates with HomeAssistant.
+* **[IT Manual](https://github.com/PNW-Computers/IT-Manual)** – A comprehensive knowledge base for independent IT technicians, MSPs, and repair shops.
+* **[ESP32 HomeAssistant Alarm](https://github.com/PNW-Computers/ESP32_HA_Alarm)** – A professional-grade, distributed vehicle security system that intergrates with HomeAssistant.
 * **[Master OSINT Guide](https://github.com/PNW-Computers/osint)** – A Comprehensive OSINT Toolkit for Scam & Fraud Investigation
 * **[PNWC Reticulum Network](https://github.com/PNW-Computers/Reticulum-Network)** – Dual Base Station Reticulum Mesh Network.
 
